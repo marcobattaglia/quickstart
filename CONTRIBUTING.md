@@ -24,11 +24,11 @@ Here are the steps in detail:
 
 2. Clone your fork. This creates and populates a directory in your local file system.
 
-        git clone git@github.com:<your-username>/jboss-as-quickstart.git
+        git clone git@github.com:<your-username>/quickstart.git
 
 3. Add the remote `upstream` repository so you can fetch any changes to the original forked repository.
 
-        git remote add upstream git@github.com:jboss-jdf/jboss-as-quickstart.git
+        git remote add upstream git@github.com:wildfly/quickstart.git
 
 4. Get the latest files from the `upstream` repository.
 
